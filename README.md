@@ -1,3 +1,4 @@
+![DASHBOARD 4SS](https://github.com/user-attachments/assets/a0b39d1c-f20b-475a-88e6-22a69e5c4a81)
 # Sweet-Tooth-Heaven-A-Data-Driven-Analysis-of-2019-Sales-Performance
 Data analysis dashboard for fictional cookie brand using excel
 In the world of data, insights are the real treats — and this dashboard delivers a full box of them. I recently built an interactive analytics dashboard to explore the 2019 performance of Sweet Tooth Heaven, a fictional cookie brand. The goal was to transform raw sales data into a compelling visual story that could inform product strategy, marketing, and geographic expansion decisions.
